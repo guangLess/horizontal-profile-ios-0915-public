@@ -9,6 +9,12 @@
 /* Begin PBXBuildFile section */
 		30B8F7AA2F22415C95D44EE5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C5289C15D60B41DBBC7AADB2 /* Foundation.framework */; };
 		4D55493D1BCC3690001E3D77 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D55493C1BCC3690001E3D77 /* Launch Screen.storyboard */; settings = {ASSET_TAGS = (); }; };
+		624699741BD1310700302763 /* FISProfileViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 624699731BD1310700302763 /* FISProfileViewController.m */; settings = {ASSET_TAGS = (); }; };
+		624699761BD1311B00302763 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 624699751BD1311A00302763 /* Storyboard.storyboard */; settings = {ASSET_TAGS = (); }; };
+		6246997A1BD1382100302763 /* IMG_3105.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 624699791BD1382100302763 /* IMG_3105.JPG */; settings = {ASSET_TAGS = (); }; };
+		6246997C1BD1383700302763 /* giphy.gif in Resources */ = {isa = PBXBuildFile; fileRef = 6246997B1BD1383700302763 /* giphy.gif */; settings = {ASSET_TAGS = (); }; };
+		6246997E1BD1390700302763 /* early_morning.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6246997D1BD1390700302763 /* early_morning.jpg */; settings = {ASSET_TAGS = (); }; };
+		624699801BD1393F00302763 /* early_morning_memoriies_6_7_114359_fnl.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6246997F1BD1393F00302763 /* early_morning_memoriies_6_7_114359_fnl.jpg */; settings = {ASSET_TAGS = (); }; };
 		7615DE68A7FD408294BF581F /* FISAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DD179C6C4A5A43839ECF32E8 /* FISAppDelegate.m */; };
 		D0D7835FFCD34B79AC2E7477 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E798758BBF044A70BEE06836 /* main.m */; };
 		E15752C0E46D4CEDACD0094B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CFA4DAF6FC9457FA2C246E6 /* Images.xcassets */; };
@@ -29,6 +35,13 @@
 		2CFA4DAF6FC9457FA2C246E6 /* Images.xcassets */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		43484FA67152489395F54DC3 /* UnitTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "UnitTests-Info.plist"; sourceTree = "<group>"; };
 		4D55493C1BCC3690001E3D77 /* Launch Screen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
+		624699721BD1310700302763 /* FISProfileViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FISProfileViewController.h; sourceTree = "<group>"; };
+		624699731BD1310700302763 /* FISProfileViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FISProfileViewController.m; sourceTree = "<group>"; };
+		624699751BD1311A00302763 /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
+		624699791BD1382100302763 /* IMG_3105.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_3105.JPG; sourceTree = "<group>"; };
+		6246997B1BD1383700302763 /* giphy.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = giphy.gif; sourceTree = "<group>"; };
+		6246997D1BD1390700302763 /* early_morning.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = early_morning.jpg; sourceTree = "<group>"; };
+		6246997F1BD1393F00302763 /* early_morning_memoriies_6_7_114359_fnl.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = early_morning_memoriies_6_7_114359_fnl.jpg; sourceTree = "<group>"; };
 		6F5DB406E6C94332841A101B /* FISAppDelegate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = FISAppDelegate.h; sourceTree = "<group>"; };
 		855DAAE3806840F795A8F092 /* horizontal-profile-Prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "horizontal-profile-Prefix.pch"; sourceTree = "<group>"; };
 		A361BE65D745413AB2AE4BA0 /* horizontal-profile-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "horizontal-profile-Info.plist"; sourceTree = "<group>"; };
@@ -97,6 +110,13 @@
 			children = (
 				6F5DB406E6C94332841A101B /* FISAppDelegate.h */,
 				DD179C6C4A5A43839ECF32E8 /* FISAppDelegate.m */,
+				624699721BD1310700302763 /* FISProfileViewController.h */,
+				624699731BD1310700302763 /* FISProfileViewController.m */,
+				624699751BD1311A00302763 /* Storyboard.storyboard */,
+				624699791BD1382100302763 /* IMG_3105.JPG */,
+				6246997F1BD1393F00302763 /* early_morning_memoriies_6_7_114359_fnl.jpg */,
+				6246997D1BD1390700302763 /* early_morning.jpg */,
+				6246997B1BD1383700302763 /* giphy.gif */,
 				DE6B38C886034C4B98712280 /* Resources */,
 			);
 			path = "horizontal-profile";
@@ -223,8 +243,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6246997C1BD1383700302763 /* giphy.gif in Resources */,
+				624699801BD1393F00302763 /* early_morning_memoriies_6_7_114359_fnl.jpg in Resources */,
+				6246997A1BD1382100302763 /* IMG_3105.JPG in Resources */,
+				6246997E1BD1390700302763 /* early_morning.jpg in Resources */,
 				4D55493D1BCC3690001E3D77 /* Launch Screen.storyboard in Resources */,
 				E15752C0E46D4CEDACD0094B /* Images.xcassets in Resources */,
+				624699761BD1311B00302763 /* Storyboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,6 +284,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				624699741BD1310700302763 /* FISProfileViewController.m in Sources */,
 				7615DE68A7FD408294BF581F /* FISAppDelegate.m in Sources */,
 				D0D7835FFCD34B79AC2E7477 /* main.m in Sources */,
 			);
@@ -354,7 +380,7 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "horizontal-profile/Resources/Other-Sources/horizontal-profile-Info.plist";
 				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.flatiron.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
@@ -374,7 +400,7 @@
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "horizontal-profile/Resources/Other-Sources/horizontal-profile-Info.plist";
 				INSTALL_PATH = "$(BUILT_PRODUCTS_DIR)";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				OTHER_CFLAGS = (
 					"-DNS_BLOCK_ASSERTIONS=1",
 					"$(inherited)",
